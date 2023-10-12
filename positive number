@@ -1,0 +1,6 @@
+#write a program to print given number is given or not
+n=int(input('enter n number'))
+if n>0: 
+    print('positive')
+else:
+    print('negative')
